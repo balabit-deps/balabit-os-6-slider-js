@@ -1,0 +1,10 @@
+Source: slider-js
+Maintainer: bbalazs <bbalazs@balabit.com>
+Priority: extra
+Section: web
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.9.0
+Homepage: http://script.aculo.us/downloads
+
+Package: slider-js
+Architecture: all
